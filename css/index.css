@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(4, 31, 54);
+    color: rgb(27, 7, 7);
+}
+
+.container {
+    min-width: 20rem;
+    width: 70vw;
+    margin: auto;
+    background-color: rgb(142, 177, 184);
+
+}
+
+.container h1 {
+    font-size: 5rem;
+   
+}
+
+.post {
+    margin-top: 3rem;
+    background-color: aquamarine;
+    padding: 2rem 5rem;
+    border-radius: 10px;
+    box-shadow: 0 2rem 2rem -1.7rem rgb(142, 177, 184);
+}
+
+.count{
+    width: 50px;
+    height: 50px;
+    background-color: cornflowerblue;
+    display: grid;
+    place-items: center;
+}
+
+.apos{
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 3rem;
+}
